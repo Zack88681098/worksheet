@@ -1,0 +1,41 @@
+body{
+	background-color: #000000;
+	background-image: url("../images/me.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+h2 a:hover{
+	background-color: mediumpurple;
+	color: white;
+	border-radius: 8px;
+	border: 2px solid white;
+}
+.name {
+    font-family: Arial; 
+    font-size: 24px; 
+    color: white; 
+}
+.educ_bg {
+	font-family: Arial;
+	font-size: 24px;
+	color: white;
+
+}
+.exp {
+	font-family: Arial;
+	font-size: 24px;
+	color: white;
+}
+.bg_it {
+	font-family: Arial;
+	font-size: 24px;
+	color: white;
+}
+.apps {
+	font-family: Arial;
+	font-size: 24px;
+	color: white;
+}
+}
